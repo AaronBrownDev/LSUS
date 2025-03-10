@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC145/CSC145-Lab_01-BROWN_AARON/CSC145-Lab_01-BROWN_AARON.iml" filepath="$PROJECT_DIR$/CSC145/CSC145-Lab_01-BROWN_AARON/CSC145-Lab_01-BROWN_AARON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/CSC145-Lab_02-BROWN_AARON/CSC145-Lab_02-BROWN_AARON.iml" filepath="$PROJECT_DIR$/CSC145/CSC145-Lab_02-BROWN_AARON/CSC145-Lab_02-BROWN_AARON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/CSC145_Exam1_Brown_Aaron/CSC145_Exam1_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC145/CSC145_Exam1_Brown_Aaron/CSC145_Exam1_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/CSC145_Exam2_Brown_Aaron/CSC145_Exam2_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC145/CSC145_Exam2_Brown_Aaron/CSC145_Exam2_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" filepath="$PROJECT_DIR$/CSC285/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/EC-In-Class-Lab_Brown_Aaron/EC-In-Class-Lab_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC135/EC-In-Class-Lab_Brown_Aaron/EC-In-Class-Lab_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/EXAM1_Brown_Aaron/EXAM1_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC135/EXAM1_Brown_Aaron/EXAM1_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/CSC285/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/FinalProject_Brown_Aaron/FinalProject_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/FinalProject_Brown_Aaron/FinalProject_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/FinalProject_Brown_Aaron/FinalProject_Brown_Aaron2.iml" filepath="$PROJECT_DIR$/CSC135/FinalProject_Brown_Aaron/FinalProject_Brown_Aaron2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/CSC135/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/In-class-9-28/In-class-9-28.iml" filepath="$PROJECT_DIR$/CSC135/In-class-9-28/In-class-9-28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/InClass_Problem_4_1/InClass_Problem_4_1.iml" filepath="$PROJECT_DIR$/CSC135/InClass_Problem_4_1/InClass_Problem_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/InClass_Problem_4_2/InClass_Problem_4_2.iml" filepath="$PROJECT_DIR$/CSC135/InClass_Problem_4_2/InClass_Problem_4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/InClass_W11_P1/InClass_W11_P1.iml" filepath="$PROJECT_DIR$/CSC135/InClass_W11_P1/InClass_W11_P1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LSUS.iml" filepath="$PROJECT_DIR$/.idea/LSUS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/Lab03_Brown_Aaron/Lab03_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC145/Lab03_Brown_Aaron/Lab03_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/Lab05_Brown_Aaron/Lab05_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC145/Lab05_Brown_Aaron/Lab05_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/Lab1_Brown_Aaron/Lab1_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/Lab1_Brown_Aaron/Lab1_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/Lab2_Brown_Aaron/Lab2_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/Lab2_Brown_Aaron/Lab2_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/Lab3_Brown_Aaron/Lab3_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/Lab3_Brown_Aaron/Lab3_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/Lab4_Brown_Aaron/Lab4_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/Lab4_Brown_Aaron/Lab4_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/Lab5_Brown_Aaron/Lab5_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC285/Lab5_Brown_Aaron/Lab5_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/MidtermV1-Brown-Aaron/MidtermV1-Brown-Aaron.iml" filepath="$PROJECT_DIR$/CSC135/MidtermV1-Brown-Aaron/MidtermV1-Brown-Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/MidtermV3-Brown-Aaron/MidtermV3-Brown-Aaron.iml" filepath="$PROJECT_DIR$/CSC135/MidtermV3-Brown-Aaron/MidtermV3-Brown-Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/P2_14_Brown_Aaron/P2_14_Brown_Aaron.iml" filepath="$PROJECT_DIR$/CSC135/P2_14_Brown_Aaron/P2_14_Brown_Aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_1/Problem_1_1.iml" filepath="$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_1/Problem_1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_2/Problem_1_2.iml" filepath="$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_2/Problem_1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_3/Problem_1_3.iml" filepath="$PROJECT_DIR$/CSC135/Lab1_Brown_Aaron/Problem_1_3/Problem_1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Problem_2_1/Problem_2_1.iml" filepath="$PROJECT_DIR$/CSC135/Problem_2_1/Problem_2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_2/Problem_2_2.iml" filepath="$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_2/Problem_2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_3/Problem_2_3.iml" filepath="$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_3/Problem_2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_1/Problem_2_4.iml" filepath="$PROJECT_DIR$/CSC135/Lab2_Brown_Aaron/Problem_2_1/Problem_2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Problem_2_5/Problem_2_5.iml" filepath="$PROJECT_DIR$/CSC135/Problem_2_5/Problem_2_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Problem_2_8/Problem_2_8.iml" filepath="$PROJECT_DIR$/CSC135/Problem_2_8/Problem_2_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_1/Problem_3_1.iml" filepath="$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_1/Problem_3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_2/Problem_3_2.iml" filepath="$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_2/Problem_3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_3/Problem_3_3.iml" filepath="$PROJECT_DIR$/CSC135/Lab3_Brown_Aaron/Problem_3_3/Problem_3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_1/Problem_4_1.iml" filepath="$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_1/Problem_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_2/Problem_4_2.iml" filepath="$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_2/Problem_4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_3/Problem_4_3.iml" filepath="$PROJECT_DIR$/CSC135/Lab4_Brown_Aaron/Problem_4_3/Problem_4_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_1/Problem_5_1.iml" filepath="$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_1/Problem_5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_2/Problem_5_2.iml" filepath="$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_2/Problem_5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_3/Problem_5_3.iml" filepath="$PROJECT_DIR$/CSC135/Lab5_Brown_Aaron/Problem_5_3/Problem_5_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Problem_6_14/Problem_6_14.iml" filepath="$PROJECT_DIR$/CSC135/Problem_6_14/Problem_6_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC145/RectangleInheritance/RectangleInheritance.iml" filepath="$PROJECT_DIR$/CSC145/RectangleInheritance/RectangleInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC285/RepositoryPattern/RepositoryPattern.iml" filepath="$PROJECT_DIR$/CSC285/RepositoryPattern/RepositoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Week12-Problem1/Week12-Problem1.iml" filepath="$PROJECT_DIR$/CSC135/Week12-Problem1/Week12-Problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC135/Week12-Problem2/Week12-Problem2.iml" filepath="$PROJECT_DIR$/CSC135/Week12-Problem2/Week12-Problem2.iml" />
+    </modules>
+  </component>
+</project>
