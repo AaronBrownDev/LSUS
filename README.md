@@ -33,7 +33,6 @@ Projects are organized by course, with each folder representing a specific class
 
 - [**Personal Finance Application**](https://github.com/AaronBrownDev/LSUS-PersonalFinanceApp) - Object-oriented finance tracking system with multiple design patterns
 - [**Humane Society Website + Management System**](https://github.com/AaronBrownDev/HumaneSociety) - Full-stack web application for the Humane Society of Northwest Louisiana that streamlines pet adoption processes and shelter management
-- **[Other significant projects from your courses]**
 
 ## 📝 Notes
 
