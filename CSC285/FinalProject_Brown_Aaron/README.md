@@ -61,7 +61,7 @@ This project demonstrates understanding and application of:
 
 ## Academic Context
 
-This project was completed as the final assignment for CSC 285 (Object-Oriented Programming) at Louisiana State University in Shreveport. It represents the culmination of course learning objectives related to OOP principles and software design.
+This project was completed as the final assignment for CSC 285 (Object-Oriented Design) at Louisiana State University in Shreveport. It represents the culmination of course learning objectives related to OOP principles and software design.
 
 ## Acknowledgments
 
