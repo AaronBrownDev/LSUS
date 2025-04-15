@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Feedback Survey</title>
+    <link rel="stylesheet" href="event_survey.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Event Feedback Survey</h1>
+        <form id="surveyForm" action="submit_survey.php" method="POST">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Your full name">
+            </div> 
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Your email address">
+            </div>
+
+            <div class="form-group">
+                <label for="event_name">Event Name:</label>
+                <input type="text" id="event_name" name="event_name" placeholder="Name of the event attended">
+            </div>
+
+            <div class="form-group">
+                <label for="event_type">Event Type:</label>
+                <select id="event_type" name="event_type">
+                    <option value="">Select event type</option>
+                    <option value="workshop">Workshop</option>
+                    <option value="lecture">Lecture</option>
+                    <option value="social">Social</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="rating">Overall Rating</label>
+                <div class="radio-group">
+                    <input type="radio" name="rating" id="rating1" value="1">
+                    <label for="rating1">1</label>
+
+                    <input type="radio" name="rating" id="rating2" value="2">
+                    <label for="rating2">2</label>
+
+                    <input type="radio" name="rating" id="rating3" value="3">
+                    <label for="rating3">3</label>
+
+                    <input type="radio" name="rating" id="rating4" value="4">
+                    <label for="rating4">4</label>
+
+                    <input type="radio" name="rating" id="rating5" value="5">
+                    <label for="rating5">5</label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="">Would Attend Again?</label>
+                <div class="radio-group">
+                    <input type="radio" name="interest" id="interestYes" value="Yes">
+                    <label for="interestYes">Yes</label>
+
+                    <input type="radio" name="interest" id="interestNo" value="No">
+                    <label for="interestNo">No</label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="highlight">Highlight / Favorite Part:</label>
+                <textarea name="highlight" id="highlight" rows="4" placeholder="What was your favorite part of the event?"></textarea>
+            </div>
+
+            <button type="submit">Submit Feedback</button>
+        </form>
+    <div>
+
+    <script src="validation.js"></script>
+</body>
+</html>
