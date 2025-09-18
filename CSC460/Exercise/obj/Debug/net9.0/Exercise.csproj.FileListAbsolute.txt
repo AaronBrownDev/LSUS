@@ -1,0 +1,15 @@
+/workspaces/LSUS/CSC460/Exercise/bin/Debug/net9.0/Exercise
+/workspaces/LSUS/CSC460/Exercise/bin/Debug/net9.0/Exercise.deps.json
+/workspaces/LSUS/CSC460/Exercise/bin/Debug/net9.0/Exercise.runtimeconfig.json
+/workspaces/LSUS/CSC460/Exercise/bin/Debug/net9.0/Exercise.dll
+/workspaces/LSUS/CSC460/Exercise/bin/Debug/net9.0/Exercise.pdb
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfoInputs.cache
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfo.cs
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.csproj.CoreCompileInputs.cache
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.sourcelink.json
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.dll
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/refint/Exercise.dll
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.pdb
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/Exercise.genruntimeconfig.cache
+/workspaces/LSUS/CSC460/Exercise/obj/Debug/net9.0/ref/Exercise.dll
