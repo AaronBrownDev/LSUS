@@ -17,7 +17,7 @@ func getInput() (input string, err error) {
 		case "--help":
 			fmt.Println("flags:\n-h // help flag\n--help // help flag\n-f // file flag\n--flag // file flag\n-s // string flag\n--string // string flag")
 			fmt.Println()
-			fmt.Println("usage:\ngo run main.go -f '[fileName]'\nor\ngo run main.go -s '[inputString]'\nor\ngo run main.go")
+			fmt.Println("usage:\ngo run cmd/interpreter/main.go -f '[fileName]'\nor\ngo run cmd/interpreter/main.go -s '[inputString]'\nor\ngo run cmd/interpreter/main.go // hardcoded")
 			os.Exit(0)
 
 		// File flag
