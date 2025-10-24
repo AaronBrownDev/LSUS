@@ -47,10 +47,11 @@ go run cmd/interpreter/main.go -f input.txt
 go run cmd/interpreter/main.go --file input.txt
 ```
 
-### Method 3: Hardcoded (For Testing)
+### Method 3: Hardcoded
 
 ```bash
 # Runs with default expression: ~T^(F->T)vF.
+# Change default expression in internal/cmd/cli.go
 go run cmd/interpreter/main.go
 ```
 
