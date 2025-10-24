@@ -2,6 +2,7 @@ package syntax
 
 import (
 	"fmt"
+	"strings"
 	"unicode"
 )
 
@@ -12,7 +13,7 @@ type Lexer struct {
 
 func NewLexer(input string) *Lexer {
 	return &Lexer{
-		input: input,
+		input: strings.TrimSpace(input), // To get rid of extra whitespaces
 		pos:   0,
 	}
 }
