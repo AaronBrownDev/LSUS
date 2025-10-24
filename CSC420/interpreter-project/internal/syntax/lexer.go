@@ -71,7 +71,7 @@ func (l *Lexer) Tokenize() ([]Token, error) {
 				l.advance()
 				l.advance()
 			} else {
-				return nil, fmt.Errorf("")
+				return nil, fmt.Errorf("syntax error: expected '->' but found '-%c' at position %d", l.peekNext(), l.pos)
 			}
 		case '(':
 			tokens = append(tokens, _LPAREN)
