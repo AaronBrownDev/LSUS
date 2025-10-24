@@ -82,6 +82,8 @@ func (l *Lexer) Tokenize() ([]Token, error) {
 		case '.':
 			tokens = append(tokens, _PERIOD)
 			l.advance()
+		default:
+			return nil, fmt.Errorf("invalid character %s", string(char))
 		}
 
 	}
